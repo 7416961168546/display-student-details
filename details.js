@@ -1,0 +1,27 @@
+export const books = [
+  {
+    name:"Indu",
+    id:1,
+    marks:96,
+  },
+  {
+    name:"Vasantha",
+    id:2,
+    marks:98,
+  },
+  {
+    name:"Bharath",
+    id:3,
+    marks:89,
+  },
+  {
+    name:"Rama",
+    id:4,
+    marks:79,
+  },
+  {
+    name:"sita",
+    id:5,
+    marks:89,
+  }
+]
